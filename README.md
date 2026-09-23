@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/branding/bywill-ai-readme-banner.svg" alt="bywill.ai - AI, automation and education" width="100%">
+</p>
 
-<!--
-**bywill-ai/bywill-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# bywill.ai
 
-Here are some ideas to get you started:
+AI, automation and education by Will Fernandes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I explore practical ways to learn, build and work with AI. This GitHub profile brings together my tools, workflow experiments and learning resources under bywill.ai.
+
+## Areas of work
+
+- AI tools and workflow automation
+- Education and practical learning resources
+- Creative technology and content workflows
+
+## About this profile
+
+Created and curated by Will Fernandes.
